@@ -1,0 +1,29 @@
+{
+  "name": "beth",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/ndjson": "^2.0.4",
+    "bun": "^1.0.14",
+    "bun-plugin-solid": "^1.0.0",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/bearer": "^0.7.0",
+    "@elysiajs/cookie": "^0.7.0",
+    "@elysiajs/cors": "^0.7.2",
+    "@elysiajs/cron": "^0.7.0",
+    "@elysiajs/html": "^0.7.3",
+    "@elysiajs/jwt": "^0.7.1",
+    "@elysiajs/static": "^0.7.1",
+    "@elysiajs/stream": "^0.7.2",
+    "@elysiajs/swagger": "^0.7.4",
+    "elysia": "^0.7.30",
+    "ndjson": "^2.0.0",
+    "solid-js": "^1.8.7",
+    "vite": "^5.0.10"
+  }
+}
